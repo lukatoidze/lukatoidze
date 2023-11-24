@@ -41,8 +41,8 @@ I'm Luka, Front-end developer from Georgia, Tbilisi. Currently studying Manageme
 </p>
 
 <p align="center" width="100%">
-    <img height="175" src="https://streak-stats.demolab.com/?user=lukatoidze&theme=dark">
-    <img height="175" src="https://git-hub-readme-stats-kappa.vercel.app/api/top-langs/?username=lukatoidze&exclude_repo=Frontloops-Challenges-Markup&layout=compact&langs_count=8&theme=dark">
+    <img height="200" src="https://streak-stats.demolab.com/?user=lukatoidze&theme=dark">
+    <img height="200" src="https://git-hub-readme-stats-kappa.vercel.app/api/top-langs/?username=lukatoidze&exclude_repo=Frontloops-Challenges-Markup&layout=compact&langs_count=8&theme=dark">
 </p>
 
 ### Additional tools
