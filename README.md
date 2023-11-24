@@ -1,6 +1,6 @@
 # Hello there <img src="./img/litwick-pixel.gif" alt="Litwick Gif" style="width:40px;"/>
 
-I'm Luka, Front-end developer from Georgia, Tbilisi. Currently studying Management and Information Technology (Qualification profile: Software Engineering) at West Saxon University of Applied Sciences of Zwickau (Germany).
+I'm Luka, Front-end developer from Georgia, Tbilisi. Currently studying Management and Information Technology (Qualification profile: Software Engineering) at West Saxon University of Applied Sciences of Zwickau (Germany)
 
 ### Social networks
 
@@ -40,7 +40,10 @@ I'm Luka, Front-end developer from Georgia, Tbilisi. Currently studying Manageme
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=lukatoidze&theme=dark" width="100%"/>
+<p align="center" width="100%">
+    <img height="175" src="https://streak-stats.demolab.com/?user=lukatoidze&theme=dark">
+    <img height="175" src="https://git-hub-readme-stats-kappa.vercel.app/api/top-langs/?username=lukatoidze&exclude_repo=Frontloops-Challenges-Markup&layout=compact&langs_count=8&theme=dark">
+</p>
 
 ### Additional tools
 
