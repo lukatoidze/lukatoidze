@@ -1,8 +1,12 @@
 # Hello there <img src="./img/litwick-pixel.gif" alt="Litwick Gif" style="width:40px;"/>
 
-I'm Luka, Front-end developer from Tbilisi, Georgia. Currently studying Management and Information Technology (Qualification profile: Software Engineering) at West Saxon University of Applied Sciences of Zwickau (Germany).
+👾 I'm Luka, Front-end developer from Tbilisi, Georgia. Currently studying Management and Information Technology (Qualification profile: Software Engineering) at West Saxon University of Applied Sciences of Zwickau (Germany).
 
-Always open to project collaborations and new challenges. Feel free to connect with me using any social network listed below.
+❤️‍🔥 List of my passions include: Design & visualization, science and digital technologies.
+
+Always exploring new tech and tools - both design and programming-oriented, constantly learning and adapting to advancements in the field. Currently doing a research paper related to AI and Video games 🎮
+
+🔥 Open and ready for project collaborations and new challenges. Feel free to connect with me using any social network listed below or via email: toidzeluk@gmail.com 📩
 
 ### Social networks
 
@@ -27,6 +31,7 @@ Always open to project collaborations and new challenges. Feel free to connect w
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
