@@ -48,8 +48,8 @@ Always exploring new tech and tools - both design and programming-oriented, cons
 </p>
 
 <p align="center" width="100%">
+    <img height="200" src="https://github-readme-streak-stats-eight-gray.vercel.app?user=lukatoidze&theme=dark">
     <img height="200" src="https://git-hub-readme-stats-lukas-projects-335912b3.vercel.app/api/top-langs/?username=lukatoidze&exclude_repo=Frontloops-Challenges-Markup&layout=compact&langs_count=8&theme=dark">
-    <img height="200" src="https://streak-stats.demolab.com/?user=lukatoidze&theme=dark">
 </p>
 
 ### Additional tools
@@ -59,4 +59,3 @@ Always exploring new tech and tools - both design and programming-oriented, cons
   <img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <img alt="Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white">
 </p>
-
