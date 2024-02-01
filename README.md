@@ -4,7 +4,7 @@
 
 ❤️‍🔥 List of my passions include: Design & visualization, science and digital technologies.
 
-Always exploring new tech and tools - both design and programming-oriented, constantly learning and adapting to advancements in the field. Currently doing a research paper related to AI and Video games 🎮
+Always exploring new tech and tools - both design and programming-oriented, constantly learning and adapting to advancements in the field.
 
 🔥 Open and ready for project collaborations and new challenges. Feel free to connect with me using any social network listed below or via email: toidzeluk@gmail.com 📩
 
