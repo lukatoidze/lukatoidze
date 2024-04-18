@@ -1,6 +1,6 @@
 # Hello there <img src="./img/litwick-pixel.gif" alt="Litwick Gif" style="width:40px;"/>
 
-👾 I'm Luka, Front-end developer from Tbilisi, Georgia. Currently studying Management and Information Technology (Qualification profile: Software Engineering) at West Saxon University of Applied Sciences of Zwickau (Germany).
+👾 I'm Luka, Front-end developer from Tbilisi, Georgia. Currently studying Management and Computer Science (Qualification profile: Software Engineering) at West Saxon University of Applied Sciences of Zwickau (Germany) and International Black Sea University (Georgia).
 
 ❤️‍🔥 List of my passions include: Design & visualization, science and digital technologies.
 
