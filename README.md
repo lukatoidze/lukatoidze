@@ -8,8 +8,10 @@ Besides coding, I also enjoy creating and designing things. Currently, mostly do
 
 ### Social networks
 
-<a href="https://github.com/lukatoidze" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub"></a>
-<a href="https://github.com/lukatoidze" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/lukatoidze?label=Followers&style=for-the-badge&=github&labelColor=%23181717"></a>
+<p>
+  <a href="https://github.com/lukatoidze" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub"></a>
+  <a href="https://github.com/lukatoidze" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/lukatoidze?label=Followers&style=for-the-badge&=github&labelColor=%23181717"></a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/lukatoidze" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -58,7 +60,9 @@ Besides coding, I also enjoy creating and designing things. Currently, mostly do
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge">
   <img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
   <img alt="Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+</p>
 
+<p>
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img alt="Substance Painter" src="https://img.shields.io/badge/Adobe%20Substance%203D%20Painter-99E93F?style=for-the-badge">  
 </p>
